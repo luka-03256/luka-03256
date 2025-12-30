@@ -12,4 +12,6 @@ contributing to **open-source projects**.
 This GitHub profile contains projects and contributions by **Luka Stefanovic**,
 focused on backend technologies, problem-solving, and secure software design.
 
-📫 **Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-stefanovic-luka/)
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-stefanovic-luka/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:42lukastefanovic@gmail.com)
