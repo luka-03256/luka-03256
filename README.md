@@ -1,16 +1,16 @@
-## Hi there 👋
+# Luka Stefanovic
 
-<!--
-**luka-03256/luka-03256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Mathematics Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+Hi, I'm **Luka Stefanovic**, a developer passionate about **mathematics**, both
+**theoretical and applied**, and how it connects to real-world software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include **backend development**, **cybersecurity**, and building
+reliable, well-structured systems. I enjoy learning through practice and actively
+contributing to **open-source projects**.
+
+This GitHub profile contains projects and contributions by **Luka Stefanovic**,
+focused on backend technologies, problem-solving, and secure software design.
+
+- GitHub: https://github.com/luka-03256
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
