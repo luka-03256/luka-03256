@@ -13,4 +13,4 @@ This GitHub profile contains projects and contributions by **Luka Stefanovic**,
 focused on backend technologies, problem-solving, and secure software design.
 
 - GitHub: https://github.com/luka-03256
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/luka-stefanovic-luka/)
